@@ -19,7 +19,8 @@ And a momentary contact switch to activate a test move to test the tuning.
  
  Created by Leif Summerfield
 Rev1 Feb 2, 2015
-Rev2 March 18, 2015 - GitHub test
+Rev2 March 18, 2015 - GitHub test...testing a small change
+
 
  
  */
